@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+pydantic
+torch
+diffusers
+accelerate
+EOF
